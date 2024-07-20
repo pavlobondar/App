@@ -11,7 +11,7 @@ import SwiftUI
 struct WAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            WeatherView()
         }
     }
 }
